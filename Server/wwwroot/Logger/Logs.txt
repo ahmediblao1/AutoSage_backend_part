@@ -1,0 +1,89 @@
+﻿Logs:
+.
+.
+
+
+Time: 12-Mar-23 21:49:11,  Description: Invalid modelstate: ,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+ModelStateException' was thrown..
+
+Time: 21-Mar-23 01:08:00,  Description: Car with parameters: Id: 0, Name: yotam, Category: , Price: 0, UnitsInStock: 0, ModelYear: , ImageSrc: ,  not found in the database,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+NotFoundInDbException' was thrown..
+
+Time: 22-Mar-23 09:35:21,  Description: Failed to get a car with id, unknown error:,   Exception Message: Could not find file 'D:\Projects\Git\My Git\Web\Car-Shop-Website\Server\Server\wwwroot\Images\Cars\Car-25.jpg'..
+
+Time: 22-Mar-23 09:40:06,  Description: Failed to get a car with id, unknown error:,   Exception Message: Could not find file 'D:\Projects\Git\My Git\Web\Car-Shop-Website\Server\Server\wwwroot\Images\Cars\Car-25.jpg'..
+
+Time: 22-Mar-23 09:40:36,  Description: Failed to get a car with id, unknown error:,   Exception Message: Could not find file 'D:\Projects\Git\My Git\Web\Car-Shop-Website\Server\Server\wwwroot\Images\Cars\Car-25.jpg'..
+
+Time: 6/4/2023 12:52:17 AM,  Description: Car with parameters: Id: 0, Name: , Category: , Price: 0, UnitsInStock: 0, ModelYear: , ImageSrc: ,  not found in the database,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+NotFoundInDbException' was thrown..
+
+Time: 6/4/2023 12:55:47 AM,  Description: Failed go get 3 cars: ,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+NotFoundInDbException' was thrown..
+
+Time: 6/4/2023 2:13:41 PM,  Description: Failed go get 3 cars: ,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+NotFoundInDbException' was thrown..
+
+Time: 6/4/2023 2:16:01 PM,  Description: Failed go get 3 cars: ,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+NotFoundInDbException' was thrown..
+
+Time: 6/4/2023 2:17:08 PM,  Description: Failed go get 3 cars: ,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+NotFoundInDbException' was thrown..
+
+Time: 6/4/2023 2:18:21 PM,  Description: Car with parameters: Id: 0, Name: , Category: , Price: 0, UnitsInStock: 0, ModelYear: , ImageSrc: ,  not found in the database,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+NotFoundInDbException' was thrown..
+
+Time: 6/5/2023 4:08:09 PM,  Description: Car with parameters: Id: 0, Name: lambo, Category: , Price: 0, UnitsInStock: 0, ModelYear: , ImageSrc: ,  not found in the database,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+NotFoundInDbException' was thrown..
+
+Time: 6/5/2023 4:08:10 PM,  Description: Car with parameters: Id: 0, Name: lambo, Category: , Price: 0, UnitsInStock: 0, ModelYear: , ImageSrc: ,  not found in the database,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+NotFoundInDbException' was thrown..
+
+Time: 6/5/2023 4:08:15 PM,  Description: Car with parameters: Id: 0, Name: lambo, Category: , Price: 0, UnitsInStock: 0, ModelYear: , ImageSrc: ,  not found in the database,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+NotFoundInDbException' was thrown..
+
+Time: 6/5/2023 4:08:17 PM,  Description: Car with parameters: Id: 0, Name: lambo, Category: , Price: 0, UnitsInStock: 0, ModelYear: , ImageSrc: ,  not found in the database,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+NotFoundInDbException' was thrown..
+
+Time: 6/5/2023 4:08:18 PM,  Description: Car with parameters: Id: 0, Name: lambo, Category: , Price: 0, UnitsInStock: 0, ModelYear: , ImageSrc: ,  not found in the database,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+NotFoundInDbException' was thrown..
+
+Time: 6/5/2023 4:09:09 PM,  Description: Ahmed Iblao Not found in DataBase,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 6/5/2023 4:29:34 PM,  Description: Failed to add a car, unknown error:,   Exception Message: An error occurred while saving the entity changes. See the inner exception for details..
+
+Time: 6/5/2023 4:38:29 PM,  Description: Car with parameters: Id: 0, Name: , Category: , Price: 0, UnitsInStock: 0, ModelYear: , ImageSrc: ,  not found in the database,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+NotFoundInDbException' was thrown..
+
+Time: 6/5/2023 4:38:36 PM,  Description: Car with parameters: Id: 0, Name: bmw, Category: , Price: 0, UnitsInStock: 0, ModelYear: , ImageSrc: ,  not found in the database,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+NotFoundInDbException' was thrown..
+
+Time: 6/5/2023 4:47:56 PM,  Description: Car with parameters: Id: 0, Name: , Category: , Price: 0, UnitsInStock: 0, ModelYear: , ImageSrc: ,  not found in the database,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+NotFoundInDbException' was thrown..
+
+Time: 6/6/2023 3:23:22 PM,  Description: Car with parameters: Id: 0, Name: , Category: , Price: 0, UnitsInStock: 0, ModelYear: , ImageSrc: ,  not found in the database,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+NotFoundInDbException' was thrown..
+
+Time: 6/6/2023 3:33:48 PM,  Description:  Not found in DataBase,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 6/6/2023 3:35:08 PM,  Description:  Not found in DataBase,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+UnauthorizedUserException' was thrown..
+
+Time: 6/6/2023 3:35:41 PM,  Description: Car with parameters: Id: 0, Name: kjjk, Category: , Price: 0, UnitsInStock: 0, ModelYear: , ImageSrc: ,  not found in the database,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+NotFoundInDbException' was thrown..
+
+Time: 6/6/2023 3:35:58 PM,  Description: Car with parameters: Id: 0, Name: kkl, Category: , Price: 0, UnitsInStock: 0, ModelYear: , ImageSrc: ,  not found in the database,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+NotFoundInDbException' was thrown..
+
+Time: 6/6/2023 7:41:14 PM,  Description: Car with parameters: Id: 0, Name: , Category: , Price: 0, UnitsInStock: 0, ModelYear: , ImageSrc: ,  not found in the database,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+NotFoundInDbException' was thrown..
+
+Time: 6/6/2023 7:41:18 PM,  Description: Car with parameters: Id: 0, Name: ahsjkda, Category: , Price: 0, UnitsInStock: 0, ModelYear: , ImageSrc: ,  not found in the database,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+NotFoundInDbException' was thrown..
+
+Time: 6/6/2023 7:41:18 PM,  Description: Car with parameters: Id: 0, Name: ahsjkda, Category: , Price: 0, UnitsInStock: 0, ModelYear: , ImageSrc: ,  not found in the database,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+NotFoundInDbException' was thrown..
+
+Time: 6/6/2023 7:41:27 PM,  Description: Car with parameters: Id: 0, Name: MER, Category: , Price: 0, UnitsInStock: 0, ModelYear: , ImageSrc: ,  not found in the database,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+NotFoundInDbException' was thrown..
+
+Time: 6/6/2023 9:34:58 PM,  Description: Car with parameters: Id: 0, Name: , Category: , Price: 0, UnitsInStock: 0, ModelYear: , ImageSrc: ,  not found in the database,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+NotFoundInDbException' was thrown..
+
+Time: 6/6/2023 9:35:02 PM,  Description: Car with parameters: Id: 0, Name: ahmed, Category: , Price: 0, UnitsInStock: 0, ModelYear: , ImageSrc: ,  not found in the database,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+NotFoundInDbException' was thrown..
+
+Time: 6/6/2023 9:35:12 PM,  Description: Car with parameters: Id: 0, Name: bmw, Category: , Price: 0, UnitsInStock: 0, ModelYear: , ImageSrc: ,  not found in the database,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+NotFoundInDbException' was thrown..
+
+Time: 6/6/2023 9:35:12 PM,  Description: Car with parameters: Id: 0, Name: bmw, Category: , Price: 0, UnitsInStock: 0, ModelYear: , ImageSrc: ,  not found in the database,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+NotFoundInDbException' was thrown..
+
+Time: 6/6/2023 9:35:12 PM,  Description: Car with parameters: Id: 0, Name: bmw, Category: , Price: 0, UnitsInStock: 0, ModelYear: , ImageSrc: ,  not found in the database,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+NotFoundInDbException' was thrown..
+
+Time: 6/6/2023 9:35:12 PM,  Description: Car with parameters: Id: 0, Name: bmw, Category: , Price: 0, UnitsInStock: 0, ModelYear: , ImageSrc: ,  not found in the database,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+NotFoundInDbException' was thrown..
+
+Time: 6/6/2023 9:35:12 PM,  Description: Car with parameters: Id: 0, Name: bmw, Category: , Price: 0, UnitsInStock: 0, ModelYear: , ImageSrc: ,  not found in the database,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+NotFoundInDbException' was thrown..
+
+Time: 6/6/2023 9:35:12 PM,  Description: Car with parameters: Id: 0, Name: bmw, Category: , Price: 0, UnitsInStock: 0, ModelYear: , ImageSrc: ,  not found in the database,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+NotFoundInDbException' was thrown..
+
+Time: 6/6/2023 9:35:15 PM,  Description: Car with parameters: Id: 0, Name: , Category: , Price: 0, UnitsInStock: 0, ModelYear: , ImageSrc: ,  not found in the database,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+NotFoundInDbException' was thrown..
+
+Time: 6/6/2023 9:35:15 PM,  Description: Car with parameters: Id: 0, Name: , Category: , Price: 0, UnitsInStock: 0, ModelYear: , ImageSrc: ,  not found in the database,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+NotFoundInDbException' was thrown..
+
+Time: 6/6/2023 9:35:15 PM,  Description: Car with parameters: Id: 0, Name: , Category: , Price: 0, UnitsInStock: 0, ModelYear: , ImageSrc: ,  not found in the database,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+NotFoundInDbException' was thrown..
+
+Time: 6/6/2023 9:35:16 PM,  Description: Car with parameters: Id: 0, Name: , Category: , Price: 0, UnitsInStock: 0, ModelYear: , ImageSrc: ,  not found in the database,   Exception Message: Exception of type 'Server.Helpers.ExceptionHandler+NotFoundInDbException' was thrown..
+
