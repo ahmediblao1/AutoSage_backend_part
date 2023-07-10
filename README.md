@@ -11,7 +11,7 @@
 
 2. Open your command-line interface (CLI) and navigate to the project's root directory.
 
-3. Build and run the application using the following command: dotnet run
+3. Build and run the application using the following command: `dotnet run`
 
 
 
